@@ -1,16 +1,24 @@
-# newyork_times
+# The NewYork Times App
 
-A new Flutter application.
+#### This app is made by using the Flutter framework. It's a mobile app to browse News from different channels.  It uses an API provided by https://developer.nytimes.com.
 
-## Getting Started
+# Preview
+![Edited_20210626_104602 1](https://user-images.githubusercontent.com/76887699/123507923-a819b080-d66c-11eb-9152-a214953e5062.gif)
 
-This project is a starting point for a Flutter application.
+# ScreenShots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/76887699/123493597-3e25ea80-d61d-11eb-8cd6-69a9fbc27ede.jpg" width="200" height="450" />
+  <img src="https://user-images.githubusercontent.com/76887699/123493601-45e58f00-d61d-11eb-8428-9ad6e7390f1a.jpg" width="200" height="450" /> 
+  <img src="https://user-images.githubusercontent.com/76887699/123493607-4aaa4300-d61d-11eb-91c6-ecaaef7d5c33.jpg" width="200" height="450" /> 
+  <img src="https://user-images.githubusercontent.com/76887699/123493613-4da53380-d61d-11eb-9437-dd325c9a3c00.jpg" width="200" height="450" /> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
+
+# Dependencies
+* http (NewYork Times API)                                                                                                                                
+* Responsive Framework                                                                                                                             
+* Flutter Swiper 
+* intl       
+
